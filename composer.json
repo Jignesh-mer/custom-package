@@ -1,0 +1,19 @@
+{
+    "name": "jigs/contact",
+    "description": "This will send email to user",
+    "type": "package",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "require": {},
+    "authors": [
+        {
+            "name": "Jigs",
+            "email": "jigs@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Jigs\\Contact\\": "src/"
+        }
+    },
+}
